@@ -1,0 +1,12 @@
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EF_WF_DatabaseFirst_Books.exe.config
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EF_WF_DatabaseFirst_Books.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EF_WF_DatabaseFirst_Books.pdb
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EntityFramework.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EntityFramework.xml
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\obj\Release\EF_WF_DatabaseFirst_Books.Form1.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\obj\Release\EF_WF_DatabaseFirst_Books.Properties.Resources.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\obj\Release\EF_WF_DatabaseFirst_Books.csproj.GenerateResource.Cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\obj\Release\EF_WF_DatabaseFirst_Books.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\EF_WF_DatabaseFirst_Books\EF_WF_DatabaseFirst_Books\obj\Release\EF_WF_DatabaseFirst_Books.pdb
